@@ -1,0 +1,10 @@
+framework module RangeSeekSlider {
+  umbrella header "RangeSeekSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module RangeSeekSlider.__Swift {
+    exclude header "RangeSeekSlider-Swift.h"
+}

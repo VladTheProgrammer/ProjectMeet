@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/vladimirkisselev/Desktop/Project X/GitHub/ProjectMeet/build/Debug-iphoneos/GBHFacebookImagePicker/GBHFacebookImagePicker.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/vladimirkisselev/Desktop/Project X/GitHub/ProjectMeet/build/Pods.build/Debug-iphoneos/GBHFacebookImagePicker.build/unextended-module.modulemap',
+    }]
+  }]
+}

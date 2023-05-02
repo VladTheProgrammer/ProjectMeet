@@ -1,0 +1,11 @@
+framework module RangeSeekSlider {
+  umbrella header "RangeSeekSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module RangeSeekSlider.Swift {
+    header "RangeSeekSlider-Swift.h"
+    requires objc
+}
